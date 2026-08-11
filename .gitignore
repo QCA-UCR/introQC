@@ -1,0 +1,5 @@
+# build output
+docs/
+
+# mac
+.DS_Store
