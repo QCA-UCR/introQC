@@ -6,4 +6,4 @@ title: "Tareas"
 
 Tareas de entrega obligatoria. La sección B será evaluada en clase.
 
-[Tarea01](tarea01.pdf)
+[Tarea01](01_tarea.pdf)
