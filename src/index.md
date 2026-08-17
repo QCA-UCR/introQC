@@ -38,7 +38,7 @@ TBA
 ## Notas de clase
 
 [00 — Números complejos y valores propios](00-appendix.pdf)  
-[01 — Repaso de álgebra lineal](01.html)  
+[01 — Repaso de álgebra lineal(Espacios de Hilbert)](01-hilbert.pdf)  
 [02 — Fundamentos de mecánica cuántica](02.html)  
 
 ## Proyectos
