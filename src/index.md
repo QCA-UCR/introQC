@@ -31,8 +31,10 @@ Por definir
 Álgebra lineal es un requisitio fundamental. Serán útiles rudimentos de mecánica cuántica y teoría de grupos, repasaremos dicho material cuando así lo requiramos.
 
 ---
+
 ## Anuncios
-TBA
+Definir tema de proyecto a más tardar el 15 de septiembre
+
 ---
 
 ## Notas de clase
