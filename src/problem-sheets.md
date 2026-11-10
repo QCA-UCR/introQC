@@ -12,3 +12,4 @@ Tareas de entrega obligatoria. La sección B será evaluada en clase.
 [Tarea04](04_tarea.pdf)  
 [Tarea05](05_tarea.pdf)  
 [Tarea06](06_tarea.pdf)  
+[Tarea07](07_tarea.pdf)  
